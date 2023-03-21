@@ -13,7 +13,7 @@ Seguem algumas observações:
     O primeiro bloco de cada solução contém a indicação de instalação dos módulos não nativos;
   </li>
   <li>
-    `Fique a vontade para copiar, reutilizar e/ou recriar!`
+    Fique a vontade para copiar, reutilizar e/ou recriar!
   </li>
 </ul>
 

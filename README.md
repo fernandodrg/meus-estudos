@@ -1,13 +1,13 @@
 # Meus Estudos
 Aqui compartilho meus estudos e projetos pessoais.
 
-## Úteis -> uteis.ipynb
+## <a href="https://github.com/fernandodrg/meus-estudos/blob/main/uteis.ipynb">Úteis</a>
 Neste notebook você vai encontrar todas as funções e técnicas úteis que uso no meu dia a dia de engenharia e ciência de dados.
 
-## Deezer RecSys -> deezer-recsys.ipynb
+## <a href="https://github.com/fernandodrg/meus-estudos/blob/main/deezer-recsys.ipynb">Deezer RecSys</a>
 Um sistema de recomendação simples para o Deezer.
 
-## Distância entre Municípios -> distancia-entre-municipios.ipynb
+## <a href="https://github.com/fernandodrg/meus-estudos/blob/main/distancia-entre-municipios.ipynb">Distância entre Municípios</a>
 Análise de distância rodoviária entre municípios e plotagem análoga a um "mapa".
 
 # Quem sou eu?

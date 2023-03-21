@@ -1,6 +1,22 @@
 # Meus Estudos
 Aqui compartilho meus estudos e projetos pessoais.
 
+Seguem algumas observações:
+<ul>
+  <li>
+    Todos os estudos são na linguagem Python;
+  </li>
+  <li>
+    A fim de facilitar o entendimento do problema/solução, decidi implementar cada caso num único notebook. Eventualmente se faz necessário criar ou utilizar arquivos de dados confidenciais ou planilhas contendo dados;
+  </li>
+  <li>
+    O primeiro bloco de cada solução contém a indicação de instalação dos módulos não nativos;
+  </li>
+  <li>
+    `Fique a vontade para copiar, reutilizar e/ou recriar!`
+  </li>
+</ul>
+
 ## <a href="https://github.com/fernandodrg/meus-estudos/blob/main/uteis.ipynb">Úteis</a>
 Neste notebook você vai encontrar todas as funções e técnicas úteis que uso no meu dia a dia de engenharia e ciência de dados.
 

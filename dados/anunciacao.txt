@@ -1,0 +1,49 @@
+Na bruma leve das paixões que vêm de dentro
+Tu vens chegando pra brincar no meu quintal
+No teu cavalo
+Peito nu, cabelo ao vento
+E o sol quarando nossas roupas no varal
+Na bruma leve das paixões que vêm de dentro
+Tu vens chegando pra brincar no meu quintal
+No teu cavalo
+Peito nu, cabelo ao vento
+E o Sol quarando nossas roupas no varal
+Tu vens, tu vens
+Eu já escuto os teus sinais
+Tu vens, tu vens
+Eu já escuto os teus sinais
+A voz do anjo sussurrou no meu ouvido
+Eu não duvido já escuto os teus sinais
+Que tu virias numa manhã de domingo
+Eu te anuncio nos sinos das catedrais
+Tu vens, tu vens
+Eu já escuto os teus sinais
+Tu vens, tu vens
+Eu já escuto os teus sinais
+Ah ah ah ah ah ah
+Ah ah ah ah ah ah
+Ah ah ah ah ah ah
+Ah ah ah ah ah ah
+Na bruma leve das paixões que vêm de dentro
+Tu vens chegando pra brincar no meu quintal
+No teu cavalo
+Peito nu, cabelo ao vento
+E o sol quarando nossas roupas no varal
+Tu vens, tu vens
+Eu já escuto os teus sinais
+Tu vens, tu vens
+Eu já escuto os teus sinais
+A voz do anjo sussurrou no meu ouvido
+Eu não duvido já escuto os teus sinais
+Que tu virias numa manhã de domingo
+Eu te anuncio nos sinos das catedrais
+Tu vens, tu vens
+Eu já escuto os teus sinais
+Tu vens, tu vens
+Eu já escuto os teus sinais
+Ah ah ah ah ah ah
+Ah ah ah ah ah ah
+Ah ah ah ah ah ah
+Ah ah ah ah ah ah
+Ah ah ah ah ah ah
+Ah ah ah ah ah ah

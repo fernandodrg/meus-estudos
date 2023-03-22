@@ -23,11 +23,14 @@ Neste notebook você vai encontrar todas as funções e técnicas úteis que uso
 ## <a href="https://github.com/fernandodrg/meus-estudos/blob/main/nlp-tf-idf.ipynb">NLP: Termos Relevantes de Letras de Músicas com TF-IDF</a>
 Exploração do processo de elaboração da estatística TF-IDF a fim de encontrar os termos mais relevantes para cada letra de música.
 
-## <a href="https://github.com/fernandodrg/meus-estudos/blob/main/deezer-recsys.ipynb">Deezer RecSys</a>
-Um sistema de recomendação simples para o Deezer.
+## <a href="https://github.com/fernandodrg/meus-estudos/blob/main/clusters-microrregioes.ipynb">Kmeans: Clusterização de Microrregiões Brasileiras</a>
+Trabalho de conclusão de curso do MBA de Data Science pela USP ESALQ. Nele faço uma abordagem de conglomerados não hierárquicos a partir de características técnicas das microrregiões brasileiras, que não as características de contíguidade (fronteira).
 
 ## <a href="https://github.com/fernandodrg/meus-estudos/blob/main/distancia-entre-municipios.ipynb">Distância entre Municípios</a>
 Análise de distância rodoviária entre municípios e plotagem análoga a um "mapa".
+
+## <a href="https://github.com/fernandodrg/meus-estudos/blob/main/deezer-recsys.ipynb">Deezer RecSys</a>
+Um sistema de recomendação simples para o Deezer.
 
 # Quem sou eu?
 <p align="left">

@@ -20,6 +20,9 @@ Seguem algumas observações:
 ## <a href="https://github.com/fernandodrg/meus-estudos/blob/main/uteis.ipynb">Úteis</a>
 Neste notebook você vai encontrar todas as funções e técnicas úteis que uso no meu dia a dia de engenharia e ciência de dados.
 
+## <a href="https://github.com/fernandodrg/meus-estudos/blob/main/nlp-tf-idf.ipynb">Extração dos Termos Relevantes de Letras de Músicas com TF-IDF</a>
+Exploração do processo de elaboração da estatística TF-IDF a fim de encontrar os termos mais relevantes para cada letra de música.
+
 ## <a href="https://github.com/fernandodrg/meus-estudos/blob/main/deezer-recsys.ipynb">Deezer RecSys</a>
 Um sistema de recomendação simples para o Deezer.
 
